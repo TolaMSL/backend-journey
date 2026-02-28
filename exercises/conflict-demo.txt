@@ -1,1 +1,1 @@
-Change from Branch B
+Resolved: Branch A + Branch B
